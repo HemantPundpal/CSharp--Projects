@@ -1,0 +1,5 @@
+D:\Visual C# Programs\Venkat\OverridingEqualsMethodinCSharp\OverridingEqualsMethodinCSharp\bin\Debug\OverridingEqualsMethodinCSharp.exe.config
+D:\Visual C# Programs\Venkat\OverridingEqualsMethodinCSharp\OverridingEqualsMethodinCSharp\bin\Debug\OverridingEqualsMethodinCSharp.exe
+D:\Visual C# Programs\Venkat\OverridingEqualsMethodinCSharp\OverridingEqualsMethodinCSharp\bin\Debug\OverridingEqualsMethodinCSharp.pdb
+D:\Visual C# Programs\Venkat\OverridingEqualsMethodinCSharp\OverridingEqualsMethodinCSharp\obj\Debug\OverridingEqualsMethodinCSharp.exe
+D:\Visual C# Programs\Venkat\OverridingEqualsMethodinCSharp\OverridingEqualsMethodinCSharp\obj\Debug\OverridingEqualsMethodinCSharp.pdb
